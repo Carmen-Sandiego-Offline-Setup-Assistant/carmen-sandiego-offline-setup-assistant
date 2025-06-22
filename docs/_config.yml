@@ -1,0 +1,148 @@
+# Site settings
+title: "Carmen Sandiego Offline Setup Assistant"
+description: "Educational geography game setup for classrooms. Offline Carmen Sandiego installation assistant for teachers, homeschool, and educational use. No internet required."
+url: "https://carmen-sandiego-offline-setup-assistant.github.io"
+baseurl: "/carmen-sandiego-offline-setup-assistant"
+
+# SEO settings
+lang: en-US
+author: Carmen Sandiego Educational Team
+twitter:
+  username: CarmenSandiegoEdu
+  card: summary_large_image
+social:
+  name: Carmen Sandiego Offline Setup Assistant
+  links:
+    - https://github.com/Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant
+
+# GitHub repository information
+repository: Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant
+github_username: Carmen-Sandiego-Offline-Setup-Assistant
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Site navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Teacher's Guide  
+    url: /teachers-guide/
+  - title: Educational Resources
+    url: /educational-resources/
+  - title: Installation Help
+    url: /installation/
+  - title: Troubleshooting
+    url: /troubleshooting/
+  - title: FAQ
+    url: /faq/
+
+# Educational categories
+collections:
+  lesson-plans:
+    output: true
+    permalink: /:collection/:name/
+  educational-resources:
+    output: true
+    permalink: /:collection/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Carmen Sandiego Educational Team"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "lesson-plans"
+    values:
+      layout: "lesson-plan"
+  - scope:
+      path: ""
+      type: "educational-resources"
+    values:
+      layout: "resource"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .internal/
+
+# Include files
+include:
+  - _pages
+  - _lesson-plans
+  - _educational-resources
+
+# Educational metadata
+educational:
+  grade_levels:
+    - "K-2"
+    - "3-5" 
+    - "6-8"
+    - "9-12"
+    - "Adult"
+  subjects:
+    - "Geography"
+    - "Social Studies"
+    - "History"
+    - "Critical Thinking"
+    - "Research Skills"
+  standards:
+    - "Common Core"
+    - "National Geography Standards"
+    - "C3 Framework"
+    - "UNESCO Education Guidelines"
+
+# Analytics (if needed)
+# google_analytics: UA-XXXXXXXX-X
+
+# Comments (if needed) 
+# disqus:
+#   shortname: carmen-sandiego-education
+
+# Search
+search: true
+search_full_content: true
+
+# Performance
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    envs: development
+
+# Development settings
+livereload: true
+incremental: true 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/teachers-guide/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/educational-resources/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/installation/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/troubleshooting/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/faq/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/family-guide/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://carmen-sandiego-offline-setup-assistant.github.io/carmen-sandiego-offline-setup-assistant/system-requirements/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- GitHub Repository Pages -->
+  <url>
+    <loc>https://github.com/Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant/releases</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant/discussions</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://github.com/Carmen-Sandiego-Offline-Setup-Assistant/carmen-sandiego-offline-setup-assistant/issues</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset> 

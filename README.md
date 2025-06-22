@@ -60,15 +60,7 @@
 - 📚 **Teacher Guides** - Lesson plans and educational objectives
 - 🎯 **Assessment Tools** - Progress tracking and skill evaluation
 
-## 📸 Screenshots & Media
 
-### Game Interface
-![Mission Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4AkQTBx9RuD4huYRFCQB81V7TkfvLtsp77w&s)  
-*Track Carmen's trail across the globe with authentic detective gameplay*
-
-### Setup Assistant
-![Setup Process](https://via.placeholder.com/600x300/4CAF50/FFFFFF?text=Setup+Assistant+Interface)  
-*User-friendly setup wizard guides you through installation*
 
 ## 🎮 How to Play
 
